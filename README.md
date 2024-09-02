@@ -64,6 +64,7 @@ C) Add Python to PATH
 D) Install all available features
 
 ANS: C
+
 How do you verify Python installation on any system?
 
 A) By running python --version
@@ -72,6 +73,7 @@ C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
 ANS: A
+
 What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
@@ -80,6 +82,7 @@ C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
 ANS: C
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
@@ -99,6 +102,7 @@ C) Install MySQL Workbench
 D) Set up a root password
 
 ANS:B
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
